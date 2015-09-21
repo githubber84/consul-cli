@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/CiscoCloud/consul-cli/command"
+	"github.com/githubber84/consul-cli/command"
 	"github.com/mitchellh/cli"
 )
 
